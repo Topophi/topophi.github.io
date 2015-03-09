@@ -1,12 +1,12 @@
 # Site settings
-title: Topophi Blog
-header-img: img/home-bg.jpg
+title: Topophi
+header-img: img/backpackers.jpg
 email: blog@topophi.com
-description: "Your #1 backpacking resource"
+description: "Find your outdoors"
 baseurl: ""
-url: "http://topophi.github.io"
-twitter_username: topophi
-github_username:  topophi
+url: "https://topophi.github.io" #TODO: Update to https://blog.topophi.com once we are live
+mainSiteUrl: "http://topophi.bitbucket.org" #TODO: Update to https://www.topophi.com once we are live
+#twitter_username: topophi #TODO: Reenable once we get a twitter account
 facebook_username:  topophi
 
 # Build settings
@@ -14,4 +14,10 @@ markdown: kramdown
 highlighter: pygments
 permalink: pretty
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+paginate_path: "/page/:num/"
+exclude: ["less","node_modules","Gruntfile.js","LICENSE","package.json","README.md"]
+
+# Plugins (github blocks all 3rd party plugins, except for these)
+gems:
+- jekyll-sitemap
+- jekyll-redirect-from
