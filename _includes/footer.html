@@ -6,7 +6,7 @@
                 <ul class="list-inline text-center">
                     {% if site.mainSiteUrl %}
                     <li>
-                        <a href="mailto:{{ site.mainSiteUrl }}" title='Home'>
+                        <a href="{{ site.mainSiteUrl }}" title='Home'>
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-home fa-stack-1x fa-inverse"></i>
@@ -53,7 +53,7 @@
                         </a>
                     </li>
                 </ul>
-                <p>#findyouroutdoors</p>
+                <p class="text-center">#findyouroutdoors</p>
                 <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
             </div>
         </div>
