@@ -2,7 +2,7 @@
 layout:     post
 title:      "What is Topophi?"
 subtitle:   "Your resource for traveling into the outdoors."
-date:       2015-03-20
+date:       2015-03-18
 author:     "Joel Trost"
 header-img: "img/what-is-topophi.jpg"
 ---
