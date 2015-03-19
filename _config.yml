@@ -6,7 +6,7 @@ description: "Find your outdoors"
 baseurl: ""
 url: "https://topophi.github.io" #TODO: Update to https://blog.topophi.com once we are live
 mainSiteUrl: "http://topophi.bitbucket.org" #TODO: Update to https://www.topophi.com once we are live
-#twitter_username: topophi #TODO: Reenable once we get a twitter account
+twitter_username: gotopophi
 facebook_username:  topophi
 
 # Build settings
