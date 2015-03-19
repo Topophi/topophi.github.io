@@ -1,6 +1,7 @@
 # Site settings
 title: Topophi
 header-img: img/backpackers.jpg
+logo-img: img/logo.png
 email: info@topophi.com
 description: "Find your outdoors"
 baseurl: ""
