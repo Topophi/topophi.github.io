@@ -389,6 +389,15 @@ form .row:first-child .floating-label-form-group {
   background-color: #404040;
   cursor: not-allowed;
 }
+.image-block {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+.image-block img {
+  margin: auto;
+  max-height: 500px;
+}
 ::-moz-selection {
   color: white;
   text-shadow: none;
