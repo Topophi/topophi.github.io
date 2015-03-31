@@ -11,7 +11,7 @@ header-img: "img/what-is-topophi.jpg"
 
 <p>Growing up I had always been a pretty adventurous kid, involved in every sport, boy scouts, and would jump the fences that enclosed the military standard housing I was raised in.  When I went to college the adventures stopped as I was inducted into the daily grind of studying and soon after leaving to work.</p>
 
-<p>That was changed when I was introduced to Joseph Knox, one of our cofounders via Stephen Bishtawi, another one of our cofounders.  We met on my first backpacking trip since my childhood.  We traveled up to Lake Tahoe Basin in January for a three night stint where we scaled Freel Peak in freezing temperatures.  It was seriously cold, we'd wake up and have to thaw out our boots by the fire in order to slide our feed into them.</p>
+<p>That was changed when I was introduced to Joseph Knox, one of our cofounders via Stephen Bishtawi, another one of our cofounders.  We met on my first backpacking trip since my childhood.  We traveled up to Lake Tahoe Basin in January for a three night stint where we scaled Freel Peak in freezing temperatures.  It was seriously cold, we'd wake up and have to thaw out our boots by the fire in order to slide our feet into them.</p>
 
 <p>At this point you're probably asking yourself, "what does this have to do with Topophi?"  </p>
 
