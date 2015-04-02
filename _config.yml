@@ -1,12 +1,12 @@
 # Site settings
-title: Topophi
+title: TOPOPHI
 header-img: img/backpackers.jpg
 logo-img: img/logo.png
 email: info@topophi.com
 description: "Find your outdoors"
 baseurl: ""
-url: "https://topophi.github.io" #TODO: Update to https://blog.topophi.com once we are live
-mainSiteUrl: "http://topophi.bitbucket.org" #TODO: Update to https://www.topophi.com once we are live
+url: "https://blog.topophi.com"
+mainSiteUrl: "https://www.topophi.com"
 twitter_username: gotopophi
 facebook_username:  topophi
 
