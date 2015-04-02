@@ -23,6 +23,6 @@ header-img: "img/joanna-photo.jpg"
 
 <p>Topophi is an exciting project for me because we are solving a problem that we have had, but talking to other backpackers and hikers seems to be a challenge for everyone.  Its something I'm passionate about and am thrilled to see what we can do to make getting outdoors easier and safer for everyone.  I want to help people engage in nature and the outdoors.  I want to help build something that will allow everyone to have an adventure and even what they can do to help protect our most precious resource.</p>
 
-<blockquote>In every walk in nature one receives far more than he seeks" 
-  <p>- John Muir</p>
+<blockquote>"A grove of giant redwoods or sequoias should be kept just as we keep a great or beautiful cathedral." 
+  <p>- Theodore Roosevelt</p>
 </blockquote>
