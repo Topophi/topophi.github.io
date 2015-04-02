@@ -89,7 +89,7 @@ It has become a tradition to go backpacking on my birthday and we decided to tac
   <img src="{{ site.baseurl }}/img/2015-03/IMG_1275.jpg" alt="Hurricane Deck San Rafael Wilderness Los Padres National Forest Santa Barabra Hikes">
 </div>
 
-<p>Overall this was an awesome experience and if you either take the Manzana Creek Trail round trip, or decided to take Hurricane Deck back you will be happy you were there.  
+<p>Overall, this was an awesome experience and if you either take the Manzana Creek Trail round trip, or decide to take Hurricane Deck back you will be happy you were there.  
 
 <blockquote>The power of imagination makes us infinite. 
   <p>- John Muir</p>
