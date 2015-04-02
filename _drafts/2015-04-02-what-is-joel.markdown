@@ -2,7 +2,7 @@
 layout:     post
 title:      "What is Joel?"
 subtitle:   "An intrepid adventurer."
-date:       2015-03-23
+date:       2015-04-02
 author:     "Joel Trost"
 header-img: "img/joanna-photo.jpg"
 ---

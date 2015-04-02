@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     	Backpacking Mac and Cheese Recipe 
+title:      Backpacking Mac and Cheese Recipe 
 subtitle:   "Macaroni and Cheese ."
 date:       2015-03-28
 author:     "Joanna Khachikian"

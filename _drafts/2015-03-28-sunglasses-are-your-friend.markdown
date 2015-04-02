@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      SUNGLASSES		 
+title:      SUNGLASSES     
 subtitle:   "Are your friend."
 date:       2015-03-28
 author:     "Joanna Khachikian"
