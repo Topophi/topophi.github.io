@@ -1,10 +1,12 @@
 ---
-layout:     post
-title:      SUNGLASSES     
-subtitle:   "Are your friend."
-date:       2015-03-28
-author:     "Joanna Khachikian"
-header-img: "img/2015-03/ray-ban-sunglasses.jpg"
+layout:      post
+title:       "SUNGLASSES"
+subtitle:    "Are your friend."
+description: "Why sunglasses are neccessary while backpacking"
+tags:        [Gear]
+date:        2015-03-28
+author:      "Joanna Khachikian"
+header-img:  "img/2015-03/ray-ban-sunglasses.jpg"
 ---
 
 <h2 class="section-heading">Don't forget your sunglasses...no seriously don't</h2>

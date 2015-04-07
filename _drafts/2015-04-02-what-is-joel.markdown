@@ -1,12 +1,12 @@
 ---
-layout:     post
-title:      "What is Joel?"
-subtitle:   "An intrepid adventurer."
-date:       2015-04-02
-author:     "Joel Trost"
+layout:      post
+title:       "What is Joel?"
+subtitle:    "An intrepid adventurer."
+date:        2015-04-02
+author:      "Joel Trost"
 description: "A bio of Joel Trost.  Joel Trost is a founder of Topophi, a website looking to make data regarding the great American outdoors easily accessible to everyone."
-tags:       "Topophi Joel Trost Forest Wilderness Park Permits"
-header-img: "img/2015-04/joel_freel_peak.jpg"
+tags:        [Joel Trost, Bio, Topophi]
+header-img:  "img/2015-04/joel_freel_peak.jpg"
 ---
 
 <h2 class="section-heading">What is Joel?</h2>

@@ -1,10 +1,12 @@
 ---
-layout:     post
-title:      Backpacking Mac and Cheese Recipe 
-subtitle:   "Macaroni and Cheese ."
-date:       2015-03-28
-author:     "Joanna Khachikian"
-header-img: "img/2015-03/IMG_1211.jpg"
+layout:      post
+title:       "Backpacking Mac and Cheese Recipe"
+subtitle:    "Macaroni and Cheese."
+description: "Backpacking Mac and Cheese Recipe"
+tags:        [Food]
+date:        2015-03-28
+author:      "Joanna Khachikian"
+header-img:  "img/2015-03/IMG_1211.jpg"
 ---
 
 <h2 class="section-heading">Amazing Macaroni and Cheese</h2>

@@ -1,10 +1,12 @@
 ---
-layout:     post
-title:      "What is Topophi?"
-subtitle:   "Your resource for traveling into the outdoors."
-date:       2015-03-18
-author:     "Joel Trost"
-header-img: "img/what-is-topophi.jpg"
+layout:      post
+title:       "What is Topophi?"
+subtitle:    "Your resource for traveling into the outdoors."
+description: "Topophi: Your resource for traveling into the outdoors"
+tags:        [Topophi]
+date:        2015-03-18
+author:      "Joel Trost"
+header-img:  "img/what-is-topophi.jpg"
 ---
 
 <h2 class="section-heading">Getting Back to the Outdoors</h2>

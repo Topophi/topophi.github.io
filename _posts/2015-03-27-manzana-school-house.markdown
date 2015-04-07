@@ -1,10 +1,12 @@
 ---
-layout:     post
-title:      "Manzana School House"
-subtitle:   "Sure wish there was more water"
-date:       2015-03-27
-author:     "Joanna Khachikian"
-header-img: "img/2015-03/IMG_1262.jpg"
+layout:      post
+title:       "Manzana School House"
+subtitle:    "Sure wish there was more water"
+description: "Hiking through Manzana Schoolhouse Trail in Los Padres National Forest"
+tags:        [Los Padres, Forest, Trail, Hiking, Backpacking]
+date:        2015-03-27
+author:      "Joanna Khachikian"
+header-img:  "img/2015-03/IMG_1262.jpg"
 ---
 
 <h2 class="section-heading">Manzana Schoolhouse Trail</h2>

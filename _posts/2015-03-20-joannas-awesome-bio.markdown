@@ -1,10 +1,12 @@
 ---
-layout:     post
-title:      "Joanna's Awesome Bio"
-subtitle:   "just a little bit about me."
-date:       2015-03-20
-author:     "Joanna Khachikian"
-header-img: "img/joanna-photo.jpg"
+layout:      post
+title:       "Joanna's Awesome Bio"
+subtitle:    "just a little bit about me."
+description: "Topophi cofounder Joanna Khachikian's bio"
+tags:        [Joanna Khachikian, Bio, Topophi]
+date:        2015-03-20
+author:      "Joanna Khachikian"
+header-img:  "img/joanna-photo.jpg"
 ---
 
 <h2 class="section-heading">Joanna's Awesome Bio</h2>
