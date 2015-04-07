@@ -4,7 +4,7 @@ title:       "My Bio, a short story by Joseph Knox"
 subtitle:    "There and not back yet."
 description: "Topophi cofounder Joseph Knox's story"
 tags:        [Joseph Knox, Bio, Topophi]
-date:        2015-04-2
+date:        2015-04-02
 author:      "Joseph Knox"
 header-img:  "img/what-is-topophi.jpg"
 ---
