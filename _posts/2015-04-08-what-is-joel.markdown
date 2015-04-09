@@ -2,7 +2,7 @@
 layout:      post
 title:       "What is Joel?"
 subtitle:    "An intrepid adventurer."
-date:        2015-04-02
+date:        2015-04-08
 author:      "Joel Trost"
 description: "A bio of Joel Trost.  Joel Trost is a founder of Topophi, a website looking to make data regarding the great American outdoors easily accessible to everyone."
 tags:        [Joel Trost, Bio, Topophi]
@@ -23,7 +23,7 @@ header-img:  "img/2015-04/joel_freel_peak.jpg"
 
 <p>I ended up scaling Rainier, meeting Joanna Khachikian and many adventures have taken place since.</p>
 
-<p>Topophi is an exciting project for me because we are solving a problem that we have had, but talking to other backpackers and hikers seems to be a challenge for everyone.  Its something I'm passionate about and am thrilled to see what we can do to make getting outdoors easier and safer for everyone.  I want to help people engage in nature and the outdoors.  I want to help build something that will allow everyone to have an adventure and even what they can do to help protect our most precious resource.</p>
+<p>Topophi is an exciting project for me because we are solving a problem that we have had for a long time.  And from talking to other backpackers and hikers, seems to be a pretty universal problem.  It's something I'm passionate about and am thrilled to see what we can do to make getting outdoors easier and safer for everyone.  I hope Topophi helps everyone to get out and have their own adventure.</p>
 
 <blockquote>"A grove of giant redwoods or sequoias should be kept just as we keep a great or beautiful cathedral." 
   <p>- Theodore Roosevelt</p>
