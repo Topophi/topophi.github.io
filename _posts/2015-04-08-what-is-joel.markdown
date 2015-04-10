@@ -11,7 +11,7 @@ header-img:  "img/2015-04/joel_freel_peak.jpg"
 
 <h2 class="section-heading">What is Joel?</h2>
 
-<p>Hi everyone, I'm Joel and I'm  here to tell you a little about myself.  Or maybe you'd rather know what makes me, well... me.  I'll stick to the latter because I think that's a more interesting kind of question.  So where do I start... 
+<p>Hi everyone, I'm Joel and I'm  here to tell you a little about myself.  Or maybe you'd rather know what makes me, well... me.  I'll stick to the latter because I think that's a more interesting question.  So where do I start... 
 <p>
 
  <p>I grew up in a military family and as such became accustomed to moving every couple years.  I was a pretty rebellious kid and just about every report card described me as, "intelligent but doesn't apply himself."  I've always wondered if they say that to every child.  Anyway ya!  You would regularly see me jumping the barbed wire military fencing to run into the woods and parks behind our houses.  So I guess you could say from the get go, I was pretty adventurous.
