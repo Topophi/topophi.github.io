@@ -4,7 +4,7 @@ title:       "Stephen Bishtawi Gets Naked"
 subtitle:    "Metaphorically speaking of course"
 description: "Stephen Bishtawi: A co-founder of Topophi"
 tags:        [Stephen Bishtawi, Bio, Topophi]
-date:        2015-04-15
+date:        2015-04-10
 author:      "Stephen Bishtawi"
 ---
 
