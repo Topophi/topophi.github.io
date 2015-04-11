@@ -6,6 +6,7 @@ description: "Stephen Bishtawi: A co-founder of Topophi"
 tags:        [Stephen Bishtawi, Bio, Topophi]
 date:        2015-04-10
 author:      "Stephen Bishtawi"
+header-img:  "img/stephen.jpg"
 ---
 
 <p>Hello everyone!</p>
