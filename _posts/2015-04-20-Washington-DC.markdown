@@ -1,6 +1,6 @@
 ---
 layout:      post
-title:       "Washington D.C. = Awesome"
+title:       "Washington D.C. #Awesome"
 subtitle:    "The nations capital didn't disapoint"
 description: "Topophi's first trip together!"
 tags:        [US Forest Serice, Forest, Trail, Hiking, Backpacking]
