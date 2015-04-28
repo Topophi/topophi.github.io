@@ -20,6 +20,6 @@ paginate_path: "/page/:num/"
 exclude: ["less","node_modules","Gruntfile.js","LICENSE","package.json","README.md"]
 
 # Plugins (github blocks all 3rd party plugins, except for these)
-gems:
-- jekyll-sitemap
-- jekyll-redirect-from
+# gems:
+# - jekyll-sitemap
+# - jekyll-redirect-from
