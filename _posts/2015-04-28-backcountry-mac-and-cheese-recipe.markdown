@@ -15,7 +15,7 @@ header-img:  "img/2015-03/IMG_1211.jpg"
 
 <p> I like to use Trader Joe’s Macaroni because they have 2 styles, one is with a white cheddar and the other is with a Wisconsin cheddar and together it is amazing. However, I am sure that any mac & cheese box will do.  </p>
 <div class="image-block">
-<img src="{{ site.baseurl }}/img/2015-03/img_1239.JPG" alt="Manzana Creek Duck Santa Barbara Hikes"> 
+<img src="{{ site.baseurl }}/img/2015-03/IMG_1381.JPG" alt="Manzana Creek Duck Santa Barbara Hikes"> 
 </div>
 
 <span>**Ingredients** </span><br/>
