@@ -31,7 +31,7 @@ header-img:  "img/2015-03/IMG_1211.jpg"
 <p>This makes for less trash when you are in the backcountry. Always follow the rule: Pack it in, Pack it out</p> 
 
 **Directions**
-<p> Boil your water in the jet boil or if you are lucky with your pot over the fire. Once there is a boil then add in all macaroni and let cook for about 6-7min. Taste the macaroni and make sure it is to your liking. Next, walk your jet boil or pot about 20ft away from where you are sleeping and pout out most of the water, leaving about 1/2cup to mix in the powder.</p>
+<p> Boil your water in the jet boil or if you are lucky with your pot over the fire. Once there is a boil then add in all macaroni and let cook for about 6-7min. Taste the macaroni and make sure it is to your liking. Next, walk your jet boil or pot about 20ft away from where you are sleeping and pour out most of the water, leaving about 1/2cup to mix in the powder.</p>
 
 <p>Mix in the powder with sun dried tomatoes and this is why you are going to be glad you got the powder milk. This really gives your mac & cheese the creamy texture everyone loves. Once you are done with the mixing it is time to eat. Dont forget the cholula, it really gives it a good touch.</p>
 
