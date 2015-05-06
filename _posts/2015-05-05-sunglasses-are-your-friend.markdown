@@ -4,7 +4,7 @@ title:       "SUNGLASSES"
 subtitle:    "Are your friend."
 description: "Why sunglasses are neccessary while backpacking"
 tags:        [Gear]
-date:        2015-03-28
+date:        2015-05-05
 author:      "Joanna Khachikian"
 header-img:  "img/2015-03/ray-ban-sunglasses.jpg"
 ---
