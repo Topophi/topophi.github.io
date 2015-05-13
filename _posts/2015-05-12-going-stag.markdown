@@ -61,7 +61,7 @@ header-img:  "img/2015-05/IMG_0783.JPG"
 <p>I hoped on the trail in 2 shakes of a lambs tail with my boots only slightly damp. I covered 8 miles in 2.5 hours on my way out, taking a detour and a lunch break to view the awesome Sturtevant falls. It itself isn't a far hike and I really recommend just hiking to that for anyone in Southern California. I was surprised of the amount of water that was coming down the water fall. And by that I mean I was surprised that there was any water coming down the waterfall at all. </p>
 
 <div class="image-block">
-  <img src="{{ site.baseurl }}/img/2015-04/IMG_0787.JPG" alt="San Gabriel National Monument"> 
+  <img src="{{ site.baseurl }}/img/2015-05/IMG_0787.JPG" alt="San Gabriel National Monument"> 
 </div>
 
 <p>All in all, I had a great time.  From carrying way to much water, being drenched head to toe, crapping my hammock in the middle of the night, and seeing how fast I could hike 8 miles I had a great time going solo in the woods.  It was nice to have things go quickly and to not have to wait.  Although I would of traded all of that freedom for some honest camaraderie.  </p>
